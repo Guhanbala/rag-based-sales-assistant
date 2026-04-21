@@ -1,0 +1,13 @@
+# Core dependencies
+ollama==0.4.7
+pandas==2.2.3
+chromadb==0.6.3
+numpy==2.2.2
+
+# For Django integration later (backend team will need these)
+djangorestframework==3.17.1
+django-cors-headers==4.9.0
+python-dotenv==1.2.2
+
+# Optional but useful
+tqdm==4.67.1
