@@ -1,4 +1,4 @@
-# 🚗 Sales CRM AI — Vehicle Dealership Assistant
+# rag-based-sales-assistant
 
 A local RAG-powered AI assistant for vehicle dealership CRM operations. Uses **Llama 3.2** (via Ollama) + **ChromaDB** vector search + **pandas** structured queries to answer natural language questions about enquiries, appointments, and customer feedback.
 
